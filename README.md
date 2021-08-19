@@ -89,5 +89,4 @@ Server Caching / Wordpress Caching: Server-side caching or Wordpress-side cachin
 2.	Disaster Recovery for Infrastructure (Physical).
 3.	Backup for Users Data (DB — RDS).
 4.	Backup for Application Code.
-![image](https://user-images.githubusercontent.com/13980382/130021229-df410b5a-1ef6-453a-b829-bcfb73d1c744.png)
 
